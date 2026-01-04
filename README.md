@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Osei-Sarpong
 - 👀 I’m interested in data science and a bit of web development.
-- 🌱 I’m currently learning sql, python and a bit of html, css and javascript.
+- 🌱 I’m currently learning r, sql, python and a bit of html, css and javascript.
 - 💞️ I’m looking to collaborate on datascience projects.
 - 📫 How to reach me via sarpongbrapanyin@gmail.com
 
